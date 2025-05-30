@@ -1,1 +1,3 @@
-AKTIF
+PASİF
+//PASIF
+//AKTIF
